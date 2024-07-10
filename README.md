@@ -1,5 +1,5 @@
 # clichatbot
-Gemini tutorial CLI example in python
+Coding gemini chatbot tutorial
 
 **CARA MENDAPATKAN KEYNYA**
 - kunjungi situs google ai studio [disini](https://aistudio.google.com/)
