@@ -36,4 +36,4 @@ pip install colorama
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-%2300BCD4.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizkykianadji)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizkykianadji)
 
-AI POWERED BY GOOGLE GEMINI SEE [google ai docs](https://ai.google.dev/) FOR MORE DETAIL
+AI POWERED BY GOOGLE GEMINI SEE [GOOGLE AI DOCS](https://ai.google.dev/) FOR MORE DETAIL
