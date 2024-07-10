@@ -1,1 +1,1 @@
-key = 'key gemininya' # dapat key nya dari google ai studio
+key = 'key gemininya' # dapatkan key nya dari google ai studio
