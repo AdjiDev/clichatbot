@@ -1,6 +1,11 @@
 # clichatbot
 Gemini tutorial CLI example in python
 
+**CARA MENDAPATKAN KEYNYA**
+- kunjungi situs google ai studio [disini](https://aistudio.google.com/)
+- login atau buat akun ke google ai studio
+- klik buat proyek dan klik **get api key**
+
 **TUTORIAL PENGINSTALLAN (TERMUX)**
 - unduh dan install termux [disini](https://github.com/termux/termux-app)
 - update sistem termux
@@ -25,3 +30,6 @@ pip install google-generativeai
 ```sh
 pip install colorama
 ```
+
+`ADJIDEV 2024`
+`AI POWERED BY GOOGLE GEMINI SEE [google ai docs](https://ai.google.dev/) FOR MORE DETAIL`
